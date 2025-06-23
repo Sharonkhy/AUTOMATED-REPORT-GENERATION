@@ -73,3 +73,7 @@ It works with almost any CSV file because it:
 - PDF generation (useful for many professional applications)
 - Error handling and defensive programming
 - Function organization and code structure
+
+*OUTPUT:*
+
+analysis_report.pdf
